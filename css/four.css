@@ -1,0 +1,12 @@
+.four {
+    background-image: url(../img/bg_5.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh ;
+}
+.four_right_card img {
+    width: 4.07rem;
+    height: 4.07rem;
+}

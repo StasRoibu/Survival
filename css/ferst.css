@@ -1,0 +1,18 @@
+.ferst {
+    background-image: url(../img/bg_2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.ferst_border{
+    width: 711.5px;
+    height: 2.994px;
+    border-radius: 4px;
+    background: #FFF;
+}
+.ferst_img{
+  width: 405px;
+  height: 517.94px;
+}
